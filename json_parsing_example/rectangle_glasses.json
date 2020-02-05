@@ -1,5 +1,5 @@
 {
-	"lens": { "type": "rectangle", "length":1.75, "width":1.0  },
+	"lens": { "type": "rectangle", "height":1.75, "width":1.0  },
 	"bridge_w":0.61,
 	"bridge_h":0.22,
 	"temple_holder_h":0.48,
