@@ -14,7 +14,7 @@ This repo is for demonstrating how to generate a random single channel image.
   
       <img src="images/out_bw.png" >
 
-+ running below command generates a random colorimage
++ running below command generates a random color image
   ```
       python random_image_generation_color.py
   ```
