@@ -5,7 +5,7 @@ with open(json_file_path, 'rb') as f:
   data = json.load(f)
 
 if data['lens']['type'] == "rectangle":
-   length = data['lens']['length']
+   length = data['lens']['height']
    width = data['lens']['width']
    bridge_w = data['bridge_w']
    bridge_h = data['bridge_h']
