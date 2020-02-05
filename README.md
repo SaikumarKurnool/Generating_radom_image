@@ -21,12 +21,3 @@ This is for demonstrating how to generate a random single channel image.
   + after executing the above command a 3 channel image will get saved in your current folder, which will look something like this:
 
     <img src="images/out_color.png" >
-
-
-
-# Json parsing
-  
-  For this task you need json files(files ending with ".json" format), so to parse a json file you need json package to be installed in python. See the python file [__json_parsing.py__](json_parsing.py).
-  
-## To run parsing example: 
-  ```python json_parsing.py```
