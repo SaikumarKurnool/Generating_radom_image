@@ -10,7 +10,7 @@ This is for demonstrating how to generate a random single channel image.
   ```
       python random_image_generation_bw.py
   ```
-  + after executing the above command an image will get saved in your current folder, which will look something like this:
+  + after executing the above command a single channel image will get saved in your current folder, which will look something like this:
   
       <img src="images/out_bw.png" >
 
@@ -18,7 +18,7 @@ This is for demonstrating how to generate a random single channel image.
   ```
       python random_image_generation_color.py
   ```
-  + after executing the above command an image will get saved in your current folder, which will look something like this:
+  + after executing the above command a 3 channel image will get saved in your current folder, which will look something like this:
 
     <img src="images/out_color.png" >
 
