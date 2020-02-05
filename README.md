@@ -6,9 +6,16 @@ This repo is for demonstrating how to generate a random single channel image.
 + see the requirements.txt file and install all the dependencies to proceed further
 
 ## Executing project:
-+ for running the code simply execute the following command 
++ running below command generates a random black and white image
   ```
-      python random_image_generation.py
+      python random_image_generation_bw.py
   ```
-+ after executing the above command an image will get saved in your current folder, which will look something like this:
-      <img src="images/out.png" >
+  + after executing the above command an image will get saved in your current folder, which will look something like this:
+      <img src="images/out_bw.png" >
+
++ running below command generates a random colorimage
+  ```
+      python random_image_generation_color.py
+  ```
+  + after executing the above command an image will get saved in your current folder, which will look something like this:
+      <img src="images/out_color.png" >
