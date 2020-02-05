@@ -1,3 +1,4 @@
-python(any python version works fine)
-numpy
-cv2
+## install the following
++ python(any python version works fine)
++ numpy
++ cv2
