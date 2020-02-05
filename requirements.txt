@@ -1,4 +1,8 @@
 Install the following
-+ python(any python version works fine)
-+ numpy
-+ cv2
++ python(preffered version is python 2.7)
+
+Python packages to be installed
+  + numpy
+  + cv2
+  + json
+
