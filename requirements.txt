@@ -1,0 +1,3 @@
+python(any python version works fine)
+numpy
+cv2
