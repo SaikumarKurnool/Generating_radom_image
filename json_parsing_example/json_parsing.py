@@ -5,7 +5,7 @@ with open(json_file_path, 'rb') as f:
   data = json.load(f)
 
 if data['lens']['type'] == "rectangle":
-   length = data['lens']['height']
+   height = data['lens']['height']
    width = data['lens']['width']
    bridge_w = data['bridge_w']
    bridge_h = data['bridge_h']
@@ -15,7 +15,7 @@ if data['lens']['type'] == "rectangle":
    lens_color = data['color']['lens']
 
    print('Rectangle glasses properties:')
-   print(length)
+   print(height)
    print(width)
    print(bridge_w)
    print(bridge_h)
