@@ -1,4 +1,4 @@
-## install the following
+Install the following
 + python(any python version works fine)
 + numpy
 + cv2
