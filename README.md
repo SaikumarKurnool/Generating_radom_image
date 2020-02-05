@@ -1,4 +1,4 @@
-# image_generation_example
+# Random image generation
 
 This repo is for demonstrating how to generate a random single channel image.
 
